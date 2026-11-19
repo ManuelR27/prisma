@@ -1,0 +1,29 @@
+====================================================================
+PRISMA — USUARIOS DE PRUEBA PARA INICIO DE SESIÓN
+====================================================================
+
+Puedes usar cualquiera de estos 3 usuarios ya registrados en la base de datos
+para iniciar sesión y probar la publicación automática de reseñas:
+
+--------------------------------------------------------------------
+USUARIO 1:
+- Nombre de usuario: valeria_g
+- Contraseña:        Prisma123!
+- Perfil:            Amante del café de especialidad y espacios de lectura.
+
+--------------------------------------------------------------------
+USUARIO 2:
+- Nombre de usuario: carlos_m
+- Contraseña:        Prisma123!
+- Perfil:            Crítico gastronómico, coctelería y terrazas.
+
+--------------------------------------------------------------------
+USUARIO 3:
+- Nombre de usuario: sofia_arte
+- Contraseña:        Prisma123!
+- Perfil:            Exploradora cultural, galerías de arte y libros.
+
+====================================================================
+NOTA: También puedes crear tus propios usuarios directamente desde el
+botón "Crear Cuenta" en la ventana de inicio de sesión de la página web.
+====================================================================
